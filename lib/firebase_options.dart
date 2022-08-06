@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD5IdscH3Tj63X0v4w2jjLJSiGvMn9kyFo',
-    appId: '1:586818569165:web:c39a6632ab2a4c2e12ba84',
-    messagingSenderId: '586818569165',
-    projectId: 'examen-final-futta',
-    authDomain: 'examen-final-futta.firebaseapp.com',
-    storageBucket: 'examen-final-futta.appspot.com',
+    apiKey: 'AIzaSyD5tmY8cM20vvRT2A9ew9lib4VNq6tY3gs',
+    appId: '1:522444964866:web:59fa0614920a44526d931b',
+    messagingSenderId: '522444964866',
+    projectId: 'examen-final-flutterfire',
+    authDomain: 'examen-final-flutterfire.firebaseapp.com',
+    storageBucket: 'examen-final-flutterfire.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCWv8ib1aoeXXjGumM8ZR3Ygdtw7HUa_UI',
-    appId: '1:586818569165:android:4299c4577fc647b912ba84',
-    messagingSenderId: '586818569165',
-    projectId: 'examen-final-futta',
-    storageBucket: 'examen-final-futta.appspot.com',
+    apiKey: 'AIzaSyCK2pnyrR1qB_CSkHyPdAXxT1-UBf3BYog',
+    appId: '1:522444964866:android:c7d93337a7851b886d931b',
+    messagingSenderId: '522444964866',
+    projectId: 'examen-final-flutterfire',
+    storageBucket: 'examen-final-flutterfire.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAkjjCl0_7uA4gMVDLTS42zqXKfFuPVuI8',
-    appId: '1:586818569165:ios:57d6268b35621cbe12ba84',
-    messagingSenderId: '586818569165',
-    projectId: 'examen-final-futta',
-    storageBucket: 'examen-final-futta.appspot.com',
-    iosClientId: '586818569165-5fnbt8crnpvhav2dkraarm9jns68v3vv.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDiBjr3BWGpl0b-0mB1yu7-z7mpQbNyQS0',
+    appId: '1:522444964866:ios:6beaaf39da509bc96d931b',
+    messagingSenderId: '522444964866',
+    projectId: 'examen-final-flutterfire',
+    storageBucket: 'examen-final-flutterfire.appspot.com',
+    iosClientId: '522444964866-88541i9a1tat7ldeplmg72n9qpensomt.apps.googleusercontent.com',
     iosBundleId: 'com.example.examenFinal',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAkjjCl0_7uA4gMVDLTS42zqXKfFuPVuI8',
-    appId: '1:586818569165:ios:57d6268b35621cbe12ba84',
-    messagingSenderId: '586818569165',
-    projectId: 'examen-final-futta',
-    storageBucket: 'examen-final-futta.appspot.com',
-    iosClientId: '586818569165-5fnbt8crnpvhav2dkraarm9jns68v3vv.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDiBjr3BWGpl0b-0mB1yu7-z7mpQbNyQS0',
+    appId: '1:522444964866:ios:6beaaf39da509bc96d931b',
+    messagingSenderId: '522444964866',
+    projectId: 'examen-final-flutterfire',
+    storageBucket: 'examen-final-flutterfire.appspot.com',
+    iosClientId: '522444964866-88541i9a1tat7ldeplmg72n9qpensomt.apps.googleusercontent.com',
     iosBundleId: 'com.example.examenFinal',
   );
 }

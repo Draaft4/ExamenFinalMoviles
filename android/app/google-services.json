@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "586818569165",
-    "project_id": "examen-final-futta",
-    "storage_bucket": "examen-final-futta.appspot.com"
+    "project_number": "522444964866",
+    "project_id": "examen-final-flutterfire",
+    "storage_bucket": "examen-final-flutterfire.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:586818569165:android:4299c4577fc647b912ba84",
+        "mobilesdk_app_id": "1:522444964866:android:c7d93337a7851b886d931b",
         "android_client_info": {
           "package_name": "com.example.examen_final"
         }
       },
       "oauth_client": [
         {
-          "client_id": "586818569165-5774068c96ihf030rki5kkt5bati93vc.apps.googleusercontent.com",
+          "client_id": "522444964866-hodeu16095pc09c8a0rmch99je83qkuk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCWv8ib1aoeXXjGumM8ZR3Ygdtw7HUa_UI"
+          "current_key": "AIzaSyCK2pnyrR1qB_CSkHyPdAXxT1-UBf3BYog"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "586818569165-5774068c96ihf030rki5kkt5bati93vc.apps.googleusercontent.com",
+              "client_id": "522444964866-hodeu16095pc09c8a0rmch99je83qkuk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
